@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 /**
  * panyi
- *
+ *潘易
  *
  */
 public class MainActivity extends FragmentActivity {
