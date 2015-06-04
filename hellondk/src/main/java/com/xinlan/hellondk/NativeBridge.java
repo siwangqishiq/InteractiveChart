@@ -5,4 +5,5 @@ package com.xinlan.hellondk;
  */
 public class NativeBridge {
     public static native String sayHello();
-}
+
+}//end class
